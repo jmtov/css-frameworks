@@ -1,0 +1,10 @@
+.elemento-lista{
+    color:red;
+    display:flex;
+    justify-content: center;
+    font-family: 'Patrick Hand', cursive;
+
+}
+ .input {  
+  background-color: violet;
+ }
