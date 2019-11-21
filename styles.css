@@ -1,9 +1,19 @@
+body {
+    background: cornsilk;
+}
 .titulo-principal 
 {
     color: darkred;
+    font-style: georgia;
+    font-size: 50px;
+    font-style: bold;
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
 }
 .titulo-secundario
 {
     color: crimson;
-    font-style: vertical;
+  font-style:verdana;
+  font-size: 40px;
 }
