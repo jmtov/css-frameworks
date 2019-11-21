@@ -1,0 +1,18 @@
+.titulo-principal{
+    background-color: darkblue;
+    color: cyan;
+    font-style: oblique;
+    width: 440px;
+    position: relative;
+    left: 340px;
+    margin-bottom: 40px;
+}
+.titulo-secundario{
+    background-color: brown;
+    color: cyan;
+font-style: italic;
+display: inline;
+position: relative;
+left: 300;
+
+}
