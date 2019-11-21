@@ -7,11 +7,11 @@
 
 ## Clases para modificar
 
-titulo-principal
-titulo-secundario
-parrafo
-lista
-elemento-lista
-input
-boton-principal
-boton-secundario
+- titulo-principal
+- titulo-secundario
+- parrafo
+- lista
+- elemento-lista
+- input
+- boton-principal
+- boton-secundario
