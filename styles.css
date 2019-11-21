@@ -1,0 +1,13 @@
+.parrafo { 
+    font-style: italic;
+    font-size: 20px;
+}
+
+.input { 
+    font-style: italic; 
+    padding: 3px;
+    border-color: crimson;
+}
+img {
+    width: 450px;
+}
