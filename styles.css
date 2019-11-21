@@ -1,0 +1,12 @@
+.lista{
+    background-color: brown;
+    list-style: square;
+    width: 50%;
+    font-size: 17px;
+}
+.elemento-lista{
+    color: white;
+    padding: 5px;
+    background-color: red;
+    margin: 2px;
+}
