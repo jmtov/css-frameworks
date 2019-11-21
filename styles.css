@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(180deg,#8AFFF1 0%,#6ECCC1 50%,#6B807D 100%);
+}
+
+.lista{
+    list-style: circle;
+    align-content: center;
+    
+}
+
+.elemento-lista{
+font-style: italic;
+}
+
+/* .input{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px;
+    height: 15px;
+border-radius: 30px;
+    /* border-top-right-radius: 30px; */
+    /* border-bottom-right-radius: 30px; */
+    /* border: 1.5px solid #6B807D; */
+/* } */
