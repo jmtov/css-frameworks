@@ -1,0 +1,38 @@
+.boton-principal {
+    background-color:yellow; 
+    color:rgb(66,2,2); 
+    border: 2px solid blue;
+    padding: 2px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  width: 150px;
+}
+.boton-principal:hover {
+    background-color: rgb(255, 0, 0);
+    color:rgb(165, 0, 0);
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.boton-secundario {
+    background-color:yellow;
+    color: rgb(66,2,2);
+    border: 2px solid red;
+    padding: 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    width: 150px;
+
+
+}
+.boton-secundario:hover {
+background-color: blue;
+transition-duration: 0.5s
+cursor: pointer;
+}
