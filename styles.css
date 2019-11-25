@@ -1,3 +1,14 @@
+.boton-secundario {
+  border: none;
+  background-color: blue;
+  color: white;
+}
+
+.boton-primario {
+  border: 1px solid blue;
+  color: blue;
+}
+
 .titulo-principal {
   color: red;
 }
