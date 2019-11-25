@@ -5,10 +5,9 @@
     display: flex;
     justify-content: center
 }
+
 .lista {
     border: 100px;
     color: red
     font-family: 'Patrick Hand', cursive;
-
-    
 }
