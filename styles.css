@@ -1,3 +1,28 @@
+<<<<<<< HEAD
+body {
+    background: #f87e7e;
+	filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#007d7d', EndColorStr='#005697');
+	background: -moz-linear-gradient(top, #f87e7e, #970000);
+	width: 100%;
+	height: 100%;
+}
+.titulo-principal 
+{
+    color: rgb(66, 2, 2);
+    font-style: georgia;
+    font-size: 50px;
+    font-style: bold;
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
+}
+.titulo-secundario
+{
+    color: crimson;
+  font-style:verdana;
+  font-size: 40px;
+}
+=======
 .parrafo { 
     font-style: italic;
     font-size: 20px;
@@ -11,3 +36,4 @@
 img {
     width: 450px;
 }
+>>>>>>> sirena
