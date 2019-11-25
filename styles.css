@@ -1,4 +1,4 @@
-.titulo-principal{
+/*.titulo-principal{
     background-color: darkblue;
     color: cyan;
     font-style: oblique;
@@ -15,4 +15,17 @@ display: inline;
 position: relative;
 left: 300;
 
+} */ 
+
+.titulo-principal{
+    background-color: rgb(195, 114, 206);
+    font-size: 80px;
+    font-style: oblique;
+    position: relative;
+    margin-bottom: 10px;
+}
+.titulo-secundario {
+    background-color: blueviolet;
+    font-size: 25px;
+    position: relative;
 }
