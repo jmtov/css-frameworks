@@ -8,3 +8,11 @@
   border: 1px solid blue;
   color: blue;
 }
+
+.titulo-principal {
+  color: red;
+}
+
+.titulo-secundario {
+  color: greenyellow;
+}
