@@ -12,3 +12,29 @@
     font-size: 18px;
     font-family: 'Squada One', cursive;
 }
+.boton-principal {
+    text-decoration: none;
+    padding: 4px;
+    font-size: 17px;
+    color: #ffffff;
+    background-color:#8EB8E5;
+    border-radius: 6px;
+    border: 2px  #6eb9cf;
+    font-family: 'Cabin Skeck';
+    font-style: italic;
+}
+
+.boton-secundario {
+    text-decoration: none;
+    padding: 4px;
+    font-size: 17px;
+    color: #ffffff;
+    background-color:#8EB8E5;
+    border-radius: 6px;
+    border: 2px  #6eb9cf;
+    font-family: 'Cabin Skech';
+    font-style: italic;
+}
+ body {
+     background-color:rgb(114, 184, 162);
+ }
