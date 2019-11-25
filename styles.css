@@ -1,31 +1,14 @@
-/*.titulo-principal{
-    background-color: darkblue;
-    color: cyan;
-    font-style: oblique;
-    width: 440px;
-    position: relative;
-    left: 340px;
-    margin-bottom: 40px;
-}
-.titulo-secundario{
-    background-color: brown;
-    color: cyan;
-font-style: italic;
-display: inline;
-position: relative;
-left: 300;
-
-} */ 
-
-.titulo-principal{
+.titulo-principal {
     background-color: rgb(195, 114, 206);
     font-size: 80px;
-    font-style: oblique;
-    position: relative;
+    font-style:oblique;
     margin-bottom: 10px;
+    text-align: center;
 }
+
+
 .titulo-secundario {
     background-color: blueviolet;
     font-size: 25px;
-    position: relative;
+    text-align: center;
 }
