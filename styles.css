@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background: #f87e7e;
 	filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#007d7d', EndColorStr='#005697');
@@ -21,3 +22,18 @@ body {
   font-style:verdana;
   font-size: 40px;
 }
+=======
+.parrafo { 
+    font-style: italic;
+    font-size: 20px;
+}
+
+.input { 
+    font-style: italic; 
+    padding: 3px;
+    border-color: crimson;
+}
+img {
+    width: 450px;
+}
+>>>>>>> sirena
