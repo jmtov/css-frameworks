@@ -1,0 +1,14 @@
+.parrafo{
+    color: rgb(194, 84, 11);
+    margin: 40px;
+    font-size: 20px;
+    font-family: 'Carter One', cursive;
+}
+
+.lista{
+    list-style: none;
+    margin-left: 50px;
+    color: rgb(63, 37, 5);
+    font-size: 18px;
+    font-family: 'Squada One', cursive;
+}
