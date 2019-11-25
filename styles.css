@@ -1,4 +1,16 @@
-<<<<<<< HEAD
+.lista{
+    background-color: brown;
+    list-style: square;
+    width: 50%;
+    font-size: 17px;
+}
+.elemento-lista{
+    color: white;
+    padding: 5px;
+    background-color: red;
+    margin: 2px; }
+    
+
 body {
     background: #f87e7e;
 	filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#007d7d', EndColorStr='#005697');
@@ -22,7 +34,7 @@ body {
   font-style:verdana;
   font-size: 40px;
 }
-=======
+
 .parrafo { 
     font-style: italic;
     font-size: 20px;
@@ -36,4 +48,4 @@ body {
 img {
     width: 450px;
 }
->>>>>>> sirena
+
