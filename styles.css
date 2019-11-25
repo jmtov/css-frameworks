@@ -8,5 +8,18 @@
     color: white;
     padding: 5px;
     background-color: red;
-    margin: 2px;
+    margin: 2px; }
+    
+.parrafo { 
+    font-style: italic;
+    font-size: 20px;
+}
+
+.input { 
+    font-style: italic; 
+    padding: 3px;
+    border-color: crimson;
+}
+img {
+    width: 450px;
 }
