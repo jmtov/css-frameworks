@@ -1,3 +1,13 @@
+.elemento-lista{
+    color:red;
+    display:flex;
+    justify-content: center;
+    font-family: 'Patrick Hand', cursive;
+}
+
+ .input {  
+  background-color: violet;
+ }
 .boton-principal{
     padding: 5px 5px;
     text-align: center;
