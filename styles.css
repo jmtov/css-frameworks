@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .boton-principal {
     background-color:yellow; 
     color:rgb(66,2,2); 
@@ -38,6 +39,9 @@ transition-duration: 0.5s
 cursor: pointer;
 }
 .lista {
+=======
+.lista{
+>>>>>>> origin/sirena
     background-color: brown;
     list-style: square;
     width: 50%;
@@ -47,10 +51,16 @@ cursor: pointer;
     color: white;
     padding: 5px;
     background-color: red;
+<<<<<<< HEAD
     margin: 2px;
 } 
 =======
 <<<<<<< HEAD
+=======
+    margin: 2px; }
+    
+
+>>>>>>> origin/sirena
 body {
     background: #f87e7e;
 	filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#007d7d', EndColorStr='#005697');
@@ -74,7 +84,11 @@ body {
   font-style:verdana;
   font-size: 40px;
 }
+<<<<<<< HEAD
 =======
+>>>>>>> origin/sirena
+=======
+
 >>>>>>> origin/sirena
 .parrafo { 
     font-style: italic;
@@ -90,6 +104,10 @@ img {
     width: 450px;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> sirena
+>>>>>>> origin/sirena
+=======
+
 >>>>>>> origin/sirena
