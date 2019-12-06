@@ -1,3 +1,16 @@
+.titulo-principal { 
+    color: blueviolet;
+   font-size: 70px ;
+    display: flex ;
+    justify-content: center ;
+    font-family: 'Luckiest Guy', cursive;
+}
+.titulo-secundario {
+    color: coral;
+    font-size: 30px ;
+    display: flex;
+    justify-content: center ;
+    font-family: 'Luckiest Guy', cursive;
 .boton-principal{
     padding: 5px 5px;
     text-align: center;
